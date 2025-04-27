@@ -1,6 +1,6 @@
 # Patient Management System
 
-A comprehensive patient management system using Next.js, Prisma with SQLite, and shadcn/ui components. This system will allow doctors to manage patients and for patients to book appointments and view recommendations.
+A comprehensive patient management system created using Next.js, Prisma with SQLite, and shadcn/ui components. This system will allow doctors to manage patients and for patients to book appointments and view recommendations.
 
 ## System Overview
 
